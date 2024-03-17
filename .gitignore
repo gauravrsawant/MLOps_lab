@@ -4,7 +4,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+model_2.ipynb
+model_old.ipynb
+model copy.ipynb
 # Distribution / packaging
 .Python
 env/
