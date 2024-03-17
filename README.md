@@ -48,6 +48,7 @@ The plot visualizes the average length of movies across different genres. It sho
 ### Average Profit by Genre
 The bar chart displays the average profit in millions of dollars for the top five movie genres: 
 Sci-fi shows the highest average profit. Fantasy follows closely behind sci-fi. Adventure and Animation genres also perform well, chart suggests that genres with high levels of special effects and broad appeal, such as sci-fi and fantasy, tend to generate higher profits.
+
 ![App Screenshot](/reports/figures/avg_profit.png)
 
 ### Average Budget by Genre
